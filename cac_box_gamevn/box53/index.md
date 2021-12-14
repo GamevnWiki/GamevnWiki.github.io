@@ -13,3 +13,10 @@
 - [Thảo luận chung Champion League](http://gamevn.com/threads/champions-league-2021-2022-suc-manh-dong-tien.1519052/)
 
 # Các nhân vật
+
+
+# Các sự kiện
+1. [Cuộc thảm sát nhà MU của NV](./index.md)
+2. [Kèo kinh điển của Hiheha](./index.md)
+
+

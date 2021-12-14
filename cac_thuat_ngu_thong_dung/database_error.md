@@ -1,0 +1,5 @@
+#Database error
+
+Database error là một sự kiện thường xuyên diễn ra trên GameVN do server của GameVN đã bị người ngoài hành tinh chiếm đóng và các thành viên không thể vào GameVN chém gió được. Những lúc như thế, admin GameVN thường phải triệu tập các smod và mod lại, phát cho mỗi người một khẩu súng laser và bắt đầu tiêu diệt alien để chiếm lại server. Có lúc chiến tranh kết thúc chỉ sau vài giờ nhưng cũng có lúc kéo dài đến vài ngày với thắng lợi thuộc về phe admin. Trong khi cuộc chiến với alien đang diễn ra quyết liệt thì các thành viên GameVN chỉ có một việc duy nhất để làm là đến thăm các trung tâm chuyên phối giống cho lợn để xem phim con heo và rèn luyện cơ bắp cho một cánh tay.
+Database error bây giờ đang là khẩu hiệu chính của GameVN, tuy nhiên đôi khi người ta vẫn thấy các Admin hô hào 1 khẩu hiểu khác : 500 Internal Server Error. Tất nhiên có thể đây là sự nhầm lẫn khi đang thăng hoa. Lâu rồi không còn thấy slogan server busy cũ làm mọi nguời đều nhớ
+Ch
